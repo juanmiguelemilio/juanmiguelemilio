@@ -1,4 +1,4 @@
-### Hi there 👋, I'm MJ
+### Hi there 👋, I'm Juan Miguel
 
 🌱 I’m currently learning Full Stack Web Development at Self-study
 
